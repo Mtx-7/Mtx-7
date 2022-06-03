@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtx-7&show_icons=true&locale=en&layout=compact" alt="mtx-7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtx-7&show_icons=true&locale=en" alt="mtx-7" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtx-7&" alt="mtx-7" /></p>
