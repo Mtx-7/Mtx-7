@@ -1,8 +1,6 @@
 
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCRQYeGdfWYKCNjNOh6o1NhQCfGgxCwDD7DbhVRnBeLKiNTP4AoZOzmwmNJ05c3QfDV-8&usqp=CAU )
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/84205800/171972074-4982c10a-3da2-4ad3-b8ae-a43bfebf05c5.gif)
 
-
-<img align="right" alt="Coding" width="300"    src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611bf1c48380dcc5807fe45a1d614d2ffc103d634a6&rid=giphy.gif&ct=g">
 <h1 align="center" >Hi 👋, I'm Bantissi Zakaria</h1>
 
 <h3 align="center"><i> <b>I am a university student in data science and big data</b></i></h3>
