@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Python, React, JS**
 
-- 📫 How to reach me **\t\x06Hca\x85_\xaf3\x01\x9erT\xe0zs@gmail.com**
+- 📫 How to reach me **0906486361855faf33019e7254e07a73@gmail.com/md5**
 
 - ⚡ Fun fact **I think I am funny PS**
 
